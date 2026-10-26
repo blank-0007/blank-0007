@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="450" viewBox="0 0 640 450" role="img" aria-label="Kaushal — Software Developer | B.Tech CSE">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:14px}
+.fg{fill:#24292f}.dim{fill:#57606a}.user{fill:#1a7f37}.path{fill:#0969da}.cmd{fill:#953800}.accent{fill:#8250df}.blink{fill:#8250df}
+.ln{opacity:0;animation:in .3s ease forwards}
+.blink{animation:b 1s steps(1) infinite}
+@keyframes in{to{opacity:1}}
+@keyframes b{50%{fill-opacity:0}}
+@media (prefers-reduced-motion:reduce){.ln{opacity:1;animation:none}.blink{animation:none}}
+</style>
+<rect x=".5" y=".5" width="639" height="449" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<path d="M.5 10.5a10 10 0 0 1 10-10h619a10 10 0 0 1 10 10V40H.5z" fill="#f6f8fa"/>
+<line x1=".5" y1="40" x2="639.5" y2="40" stroke="#d0d7de"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/><circle cx="42" cy="20" r="6" fill="#ffbd2e"/><circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text class="ln" style="animation-delay:0.00s" x="24" y="64" xml:space="preserve"><tspan class="user">kaushal@dev</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">whoami</tspan></text>
+<text class="ln" style="animation-delay:0.18s" x="24" y="86" xml:space="preserve"><tspan class="accent">Kaushal</tspan><tspan class="dim"> — </tspan><tspan class="fg">Software Developer | B.Tech CSE</tspan></text>
+
+<text class="ln" style="animation-delay:0.54s" x="24" y="130" xml:space="preserve"><tspan class="user">kaushal@dev</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">cat stack.txt</tspan></text>
+<text class="ln" style="animation-delay:0.72s" x="24" y="152" xml:space="preserve"><tspan class="fg">Next.js  ·  React  ·  TypeScript  ·  C++  ·  Python  ·  SQL</tspan></text>
+
+<text class="ln" style="animation-delay:1.08s" x="24" y="196" xml:space="preserve"><tspan class="user">kaushal@dev</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">cat focus.md</tspan></text>
+<text class="ln" style="animation-delay:1.26s" x="24" y="218" xml:space="preserve"><tspan class="accent">▸ </tspan><tspan class="fg">AI-powered brand governance platforms</tspan></text>
+<text class="ln" style="animation-delay:1.44s" x="24" y="240" xml:space="preserve"><tspan class="accent">▸ </tspan><tspan class="fg">Local LLMs (Ollama)</tspan></text>
+<text class="ln" style="animation-delay:1.62s" x="24" y="262" xml:space="preserve"><tspan class="accent">▸ </tspan><tspan class="fg">Hackathons (SIH 2026)</tspan></text>
+
+<text class="ln" style="animation-delay:1.98s" x="24" y="306" xml:space="preserve"><tspan class="user">kaushal@dev</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">ls ~/interests</tspan></text>
+<text class="ln" style="animation-delay:2.16s" x="24" y="328" xml:space="preserve"><tspan class="accent">▸ </tspan><tspan class="fg">Overgeared</tspan></text>
+<text class="ln" style="animation-delay:2.34s" x="24" y="350" xml:space="preserve"><tspan class="accent">▸ </tspan><tspan class="fg">The Greatest Estate Developer</tspan></text>
+<text class="ln" style="animation-delay:2.52s" x="24" y="372" xml:space="preserve"><tspan class="accent">▸ </tspan><tspan class="fg">Rapid prototyping</tspan></text>
+
+<text class="ln" style="animation-delay:2.88s" x="24" y="416" xml:space="preserve"><tspan class="user">kaushal@dev</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd"></tspan><tspan class="blink">█</tspan></text>
+</svg>
